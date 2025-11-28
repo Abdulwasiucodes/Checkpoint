@@ -1,4 +1,4 @@
-//theres a mistake
+
 package piscine
 func CountChar(str string, c rune) int {
     count := 0
